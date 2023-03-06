@@ -11,7 +11,7 @@ audonnx==0.6.3
 azure-cognitiveservices-speech==1.25.0
 backports.functools-lru-cache==1.6.4
 beautifulsoup4==4.11.2
-certifi @ file:///C:/b/abs_85o_6fm0se/croot/certifi_1671487778835/work/certifi
+
 cffi==1.15.1
 charset-normalizer==3.0.1
 click==8.1.3
