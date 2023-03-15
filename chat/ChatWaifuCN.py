@@ -20,7 +20,7 @@ idmessage = """ID      Speaker
 2       小茸
 3       唐乐吟
 """
-speakerID = 0
+speakerID = 1000
 
 def get_input():
     # prompt for input
