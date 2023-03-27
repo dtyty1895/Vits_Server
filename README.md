@@ -5,8 +5,8 @@
 **(Replenish) POST 127.0.0.1:5000/data**
 
 ## HOW TO USE
-1.you need to download nginx then excute nginx
-2.excute server.py than you can connect to 127.0.0.1:5000
+1. you need to download nginx then excute nginx
+2. excute server.py than you can connect to 127.0.0.1:5000
 ```
 python server.py
 ```
